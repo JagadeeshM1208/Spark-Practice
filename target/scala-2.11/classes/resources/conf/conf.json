@@ -1,0 +1,7 @@
+{
+  "master": "local",
+  "appName": "QueryUtility",
+  "companyJson": "src/main/scala/resources/Employee.json",
+  "key1" : "value 1",
+  "key2" : "value 2"
+}

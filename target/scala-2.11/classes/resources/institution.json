@@ -1,0 +1,49 @@
+{ "institution" : "college",
+  "name" : "ABC",
+  "students" : [
+    {
+      "name" : "wswss",
+      "section": "C"
+    },
+    {
+      "name": "ABC",
+      "section": "D"
+    },
+    {
+      "name" : "ABCw",
+      "section": "D"
+    },
+    {
+      "name" : "ABC",
+      "section": "D"
+    },
+    {
+      "name" : "ABC",
+      "section": "D"
+    },
+    {
+      "name" : "ABCD",
+      "section": "D"
+    },
+    {
+      "name" : "ABCe",
+      "section": "D"
+    },
+    {
+      "name" : "ABCf",
+      "section": "D"
+    },
+    {
+      "name" : "ABCf",
+      "section": "D"
+    },
+    {
+      "name" : "ABCe",
+      "section": "D"
+    },
+    {
+      "name" : "ABCd",
+      "section": "D"
+    }
+  ]
+}

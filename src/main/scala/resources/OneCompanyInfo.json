@@ -1,0 +1,20 @@
+{"company":
+    {"filial":[
+          {
+              "co_cidade":"004964",
+              "co_junta_comer":"35",
+              "co_nat_jur":"2",
+              "co_seq_empresa":"000000000",
+              "co_tipo_arquiv":"05",
+              "endereco_cad":[{"de_endereco":"NEW_ADDR21  MASK-ENDER MASK-ENDER MASK-ENDER MASK-ENDER","no_bairro":"NEW_NAME21"},
+                {"de_endereco":"OLD_ADDR21  MASK-ENDER MASK-ENDER MASK-ENDER MASK-ENDER","no_bairro":"OLD_NAME21"}],
+              "fl_matriz":false,
+              "no_empresa_cad":[{"dt_ultimo_arq":"26102018","no_empresa":"NEW_BRANCH21 A4 MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO"},
+                {"dt_ultimo_arq":"26102018","no_empresa":"OLD_BRANCH21 A4 MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO"}
+              ]
+            }
+    ],
+    "nu_pin_bin":"00058299_1_BRA"
+},
+  "pin":2
+}

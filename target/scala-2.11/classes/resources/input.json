@@ -1,0 +1,193 @@
+{
+  "company": {
+    "filial": [
+      {
+        "co_cidade": "004964",
+        "co_junta_comer": "35",
+        "co_nat_jur": "2",
+        "co_seq_empresa": "000000000",
+        "co_tipo_arquiv": "05",
+        "endereco_cad": [
+          {
+            "de_endereco": "OLD_ADDR12  MASK-ENDER MASK-ENDER MASK-ENDER MASK-ENDER",
+            "dt_remessa": "21012020120808",
+            "no_arquivo": "NDM.NEWJUNTA.NDJCLSP.D180415.H200339",
+            "no_bairro": "OLD_NAME12"
+          },
+          {
+            "de_endereco": "New_ADDR12  MASK-ENDER MASK-ENDER MASK-ENDER MASK-ENDER",
+            "dt_remessa": "09012020090808",
+            "no_arquivo": "NDM.NEWJUNTA.NDJCLSP.D180415.H200339",
+            "no_bairro": "OLD_NAME12"
+          },
+          {
+            "de_endereco": "New_ADDR12  MASK-ENDER MASK-ENDER MASK-ENDER MASK-ENDER",
+            "dt_remessa": "10012020100808",
+            "no_arquivo": "NDM.NEWJUNTA.NDJCLSP.D180415.H200339",
+            "no_bairro": "OLD_NAME12"
+          }
+        ],
+        "fl_matriz": false,
+        "no_empresa_cad": [
+          {
+            "dt_remessa": "1575255600000",
+            "dt_ultimo_arq": "26102018",
+            "no_arquivo": "NDM.NEWJUNTA.NDJCLSP.D180415.H200339",
+            "no_empresa": "OLD_BRANCH12 A3 MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO"
+          }
+        ]
+      },
+      {
+        "co_atos": "45",
+        "co_cidade": "SK@MAS",
+        "co_junta_comer": "41",
+        "co_nat_jur": "00160",
+        "co_seq_empresa": "945",
+        "co_tipo_arquiv": "01",
+        "endereco_cad": [
+          {
+            "de_endereco": "OLD_ADDR1 WOMASK-ENDER MASK-ENDER MASK-ENDER MASK-ENDER",
+            "dt_remessa": "21012020102020",
+            "no_arquivo": "file:/home/chp2678@serasa.intranet/Brazil/OXYGEN_HOME/brazil-data/junta-comercial/NDM.NEWJUNTA.NDJCLSP.D180415.H200339",
+            "no_bairro": "OLD_NAME1       835400006532"
+          },
+          {
+            "de_endereco": "21-01-2020 OLD_ADDR1 WOMASK-ENDER MASK-ENDER MASK-ENDER MASK-ENDER",
+            "dt_remessa": "21012020112020",
+            "no_arquivo": "file:/home/chp2678@serasa.intranet/Brazil/OXYGEN_HOME/brazil-data/junta-comercial/NDM.NEWJUNTA.NDJCLSP.D180415.H200339",
+            "no_bairro": "OLD_NAME1       835400008532"
+          },
+          {
+            "de_endereco": "OLD_ADDR1 WOMASK-ENDER MASK-ENDER MASK-ENDER MASK-ENDER",
+            "dt_remessa": "21012020092020",
+            "no_arquivo": "file:/home/chp2678@serasa.intranet/Brazil/OXYGEN_HOME/brazil-data/junta-comercial/NDM.NEWJUNTA.NDJCLSP.D180415.H200339",
+            "no_bairro": "OLD_NAME1       835400008532"
+          }
+        ],
+        "fl_matriz": true,
+        "no_empresa_cad": [
+          {
+            "dt_remessa": "1575255600000",
+            "no_arquivo": "NDM.NEWJUNTA.NDJCLSP.D180415.H200339",
+            "no_empresa": "OLD_COMP1 MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO"
+          }
+        ],
+        "qsa": [
+          {
+            "capital": [
+              {
+                "vl_capital_soc": "000000544272391.00"
+              }
+            ],
+            "co_tipo_arquiv": "02",
+            "dt_vinculacao_cad": [
+              {
+                "dt_vinculacao": "14052018"
+              }
+            ],
+            "nu_documento": "10731387392",
+            "nu_pin_bin": "107313873_2_BRA"
+          },
+          {
+            "capital": [
+              {
+                "vl_capital_soc": "000000722024616.00"
+              }
+            ],
+            "co_tipo_arquiv": "03",
+            "dt_vinculacao_cad": [
+              {
+                "dt_vinculacao": "26092013"
+              }
+            ],
+            "nu_documento": "46038309000171",
+            "nu_pin_bin": "46038309_1_BRA"
+          },
+          {
+            "capital": [
+              {
+                "vl_capital_soc": "000000795443026.00"
+              }
+            ],
+            "co_tipo_arquiv": "02",
+            "dt_vinculacao_cad": [
+              {
+                "dt_vinculacao": "14052018"
+              }
+            ],
+            "nu_documento": "06854812127",
+            "nu_pin_bin": "068548121_2_BRA"
+          },
+          {
+            "capital": [
+              {
+                "vl_capital_soc": "000000877207306.00"
+              }
+            ],
+            "co_tipo_arquiv": "02",
+            "dt_vinculacao_cad": [
+              {
+                "dt_vinculacao": "14052018"
+              }
+            ],
+            "nu_documento": "13196414744",
+            "nu_pin_bin": "131964147_2_BRA"
+          },
+          {
+            "capital": [
+              {
+                "vl_capital_soc": "000000843972671.00"
+              }
+            ],
+            "co_tipo_arquiv": "03",
+            "dt_vinculacao_cad": [
+              {
+                "dt_vinculacao": "14052014"
+              }
+            ],
+            "nu_documento": "07490626000858",
+            "nu_pin_bin": "07490626_1_BRA"
+          }
+        ]
+      },
+      {
+        "co_cidade": "004964",
+        "co_junta_comer": "35",
+        "co_nat_jur": "2",
+        "co_seq_empresa": "000000000",
+        "co_tipo_arquiv": "05",
+        "endereco_cad": [
+
+          {
+            "de_endereco": "OLD_ADDR12  MASK-ENDER MASK-ENDER MASK-ENDER MASK-ENDER",
+            "dt_remessa": "10012020070808",
+            "no_arquivo": "NDM.NEWJUNTA.NDJCLSP.D180415.H200339",
+            "no_bairro": "OLD_NAME12"
+          },
+          {
+            "de_endereco": "New_ADDR12  MASK-ENDER MASK-ENDER MASK-ENDER MASK-ENDER",
+            "dt_remessa": "10012020090808",
+            "no_arquivo": "NDM.NEWJUNTA.NDJCLSP.D180415.H200339",
+            "no_bairro": "OLD_NAME12"
+          },
+          {
+            "de_endereco": "New_ADDR12  MASK-ENDER MASK-ENDER MASK-ENDER MASK-ENDER",
+            "dt_remessa": "10012020080808",
+            "no_arquivo": "NDM.NEWJUNTA.NDJCLSP.D180415.H200339",
+            "no_bairro": "OLD_NAME12"
+          }
+        ],
+        "fl_matriz": false,
+        "no_empresa_cad": [
+          {
+            "dt_remessa": "1575255600000",
+            "dt_ultimo_arq": "26102018",
+            "no_arquivo": "NDM.NEWJUNTA.NDJCLSP.D180415.H200339",
+            "no_empresa": "OLD_BRANCH11 A2 MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO MASK-RAZAO"
+          }
+        ]
+      }
+    ],
+    "nu_pin_bin": "47981349_1_BRA"
+  }
+}
